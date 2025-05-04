@@ -1,5 +1,5 @@
 # keepalived
-Sample Scripts for keeppalived - used for our PiHoles
+Sample Scripts for keeppalived - used to create a VIP making our PiHoles High Available
 
 Visual Install and method inspired from: https://youtu.be/q-QIrzFeIxw?t=423
 
